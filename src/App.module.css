@@ -1,0 +1,20 @@
+button {
+    background-color: grey;
+}
+
+.todoList {
+    color: blue;
+}
+
+.textInput {
+    background-color: rgba(0, 0, 0, 0.507);
+    color: white;
+}
+
+.todoContainer {
+    border: solid 6px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
