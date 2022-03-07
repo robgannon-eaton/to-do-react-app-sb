@@ -1,6 +1,6 @@
 import React from 'react';
-import { Primary } from '../Button/Button.stories';
-import { Large } from '../Input/Input.stories';
+/* import { Primary } from '../Button/Button.stories';
+import { Large } from '../Input/Input.stories'; */
 
 export default {
     title: 'form/Subscription'
@@ -8,8 +8,8 @@ export default {
 
 export const PrimarySubscription = () => (
     <>
-        <Primary/>
-        <Large />
+       {/*  <Primary/>
+        <Large /> */}
     </>
 )
 
